@@ -65,7 +65,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "zeb9988", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  reposLength: 8,
   specificRepos: [],
 };
 
@@ -127,18 +127,38 @@ const getInTouch = {
     "I'm currently looking for full-time Software Engineering/Backend Developer  or Flutter developer opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "Kzeb6788@gmail.com",
 };
-
 const experiences = {
   show: true,
   heading: "Experiences",
   data: [
     {
-      role: 'Flutter Developer / Software Tester Level 2',// Here Add Company Name
+      role: 'Flutter Developer / Software Tester Level 2 Seller',
       companylogo: require('../assets/img/fi.png'),
       date: 'June 2020 – Present',
-    }
+    },
+    {
+      role: 'Full Stack Flutter Developer',
+      companylogo: require('../assets/img/fi2.png'), // Add the path to the logo for the second company
+      date: '2022 – January 2023',
+    },
+    {
+      role: 'Software Engineer Intern',
+      companylogo: require('../assets/img/fi3.png'), // Add the path to the logo for the third company
+      date: 'May 2021 – August 2021',
+    },
   ]
-}
+};
+// const experiences = {
+//   show: true,
+//   heading: "Experiences",
+//   data: [
+//     {
+//       role: 'Flutter Developer / Software Tester Level 2',// Here Add Company Name
+//       companylogo: require('../assets/img/fi.png'),
+//       date: 'June 2020 – Present',
+//     }
+//   ]
+// }
 
 // Blog SECTION
 // const blog = {
