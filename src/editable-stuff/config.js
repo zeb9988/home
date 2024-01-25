@@ -16,6 +16,10 @@ const mainBody = {
       url: "https://github.com/zeb9988",
     },
     {
+      image: "fa-github",
+      url: "https://github.com/zeb9988",
+    },
+    {
       image: "fa-facebook",
       url: "https://www.facebook.com/profile.php?id=100046662125740&mibextid=ZbWKwL",
     },
@@ -129,7 +133,7 @@ const getInTouch = {
 };
 const experiences = {
   show: true,
-  heading: "Experiences",
+  heading: "Professional Experiences",
   data: [
     {
       role: 'Flutter Developer / Software Tester Level 2 Seller',
@@ -148,21 +152,6 @@ const experiences = {
     },
   ]
 };
-// const experiences = {
-//   show: true,
-//   heading: "Experiences",
-//   data: [
-//     {
-//       role: 'Flutter Developer / Software Tester Level 2',// Here Add Company Name
-//       companylogo: require('../assets/img/fi.png'),
-//       date: 'June 2020 – Present',
-//     }
-//   ]
-// }
 
-// Blog SECTION
-// const blog = {
-//   show: false,
-// };
 
 export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
