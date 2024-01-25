@@ -16,10 +16,6 @@ const mainBody = {
       url: "https://github.com/zeb9988",
     },
     {
-      image: "fa-github",
-      url: "https://github.com/zeb9988",
-    },
-    {
       image: "fa-facebook",
       url: "https://www.facebook.com/profile.php?id=100046662125740&mibextid=ZbWKwL",
     },

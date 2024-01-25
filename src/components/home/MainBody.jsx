@@ -57,19 +57,30 @@ const MainBody = React.forwardRef(
 
           <br />
           <br />
-          <p className="text-light mt-3" style={{ fontSize: '30px', textAlign: 'center' }}>
-            If you want to create a seamless mobile app, Feel free to contact me on fiverr:
-          </p>
+          <div className="text-light mt-3" style={{ fontSize: '30px', textAlign: 'center', fontFamily: 'cursive', color: '#4285F4' }}>
+            Elevate your mobile app experience to new heights! 🚀
+          </div>  <br />
+
           <a
             className="btn btn-outline-light btn-lg mx-3"
-            href=" https://www.fiverr.com/zebkhan336"
+            href="https://www.fiverr.com/zebkhan336"
             target="_blank"
             rel="noopener noreferrer"
             role="button"
             aria-label="Check my Fiverr profile"
+            style={{
+              backgroundColor: '#000000',
+              color: '#FFFFFF',
+              border: '2px solid #ffffff',
+              borderRadius: '10px',
+              padding: '10px 20px',
+              textDecoration: 'none',
+              display: 'inline-block',
+            }}
           >
-            Check my Fiverr profile
+            Discover my Fiverr journey
           </a>
+
         </Container>
       </Jumbotron>
     );
