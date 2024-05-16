@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with Vercel, built to showcase my recent projects.",
-  "homepage": "http://192.168.100.115/",
+  "homepage": "http://192.168.0.104/",
   "version": "2.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
