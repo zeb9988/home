@@ -53,7 +53,7 @@ const about = {
   message:
     "Hello! I'm Zohaib Mustafa, a passionate Flutter app developer and freelancer with a strong foundation in Computer Science. I graduated from COMSTS with a degree in Computer Science in 2024. My expertise includes working with Flutter to build cross-platform mobile applications and utilizing Node.js and Firebase for backend development.",
 
-  resume: "https://drive.google.com/file/d/1n7ZRil38-J8JFPxJl5hCFQkybgofsNGX/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1tI22AfA-eztZofSxPpAsUPFEdLrTHVKp/view?usp=drive_link",
 };
 
 // PROJECTS SECTION
